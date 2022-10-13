@@ -1,0 +1,16 @@
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.csproj.AssemblyReference.cache
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.AssemblyInfoInputs.cache
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.AssemblyInfo.cs
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\bin\Debug\net5.0\Chess Validator.exe
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\bin\Debug\net5.0\Chess Validator.deps.json
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\bin\Debug\net5.0\Chess Validator.runtimeconfig.json
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\bin\Debug\net5.0\Chess Validator.runtimeconfig.dev.json
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\bin\Debug\net5.0\Chess Validator.dll
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\bin\Debug\net5.0\Chess Validator.pdb
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.dll
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\refint\Chess Validator.dll
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.pdb
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\Chess Validator.genruntimeconfig.cache
+D:\Program Files (x86)\VS Repos\ForkPoint\Chess Validator\Chess Validator\obj\Debug\net5.0\ref\Chess Validator.dll
